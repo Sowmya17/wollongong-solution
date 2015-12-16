@@ -1,0 +1,10 @@
+﻿body 
+{
+    background-image:url(../images/kioskpage.jpg);
+     background-repeat:no-repeat;
+     background-attachment:scroll;
+     
+     position:relative;
+     background-position:0% 0px;
+     font-family:Calibri;
+}

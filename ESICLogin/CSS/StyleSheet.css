@@ -1,0 +1,32 @@
+﻿body
+{
+     background-image:url(../images/Wollongongnologo.jpg);
+     background-repeat:no-repeat;
+     background-attachment:scroll;
+     
+     position:relative;
+     background-position:0% 0px;
+     font-family:Calibri;
+     
+}
+.1png
+{
+     background-image:url(images/13kan.png);
+     
+     background-color:Transparent;
+}
+.2png
+{
+     background-image:url(images/12kan.png);
+     background-repeat:no-repeat;
+}
+.3png
+{
+     background-image:url(images/11kan.png);
+     
+     background-repeat:no-repeat;
+}
+
+
+
+
